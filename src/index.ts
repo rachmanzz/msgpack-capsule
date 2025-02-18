@@ -1,0 +1,1 @@
+export { serialCapsule, deserialCapsule } from "./libs/serial-capsule";
