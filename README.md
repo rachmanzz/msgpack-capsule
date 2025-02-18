@@ -18,7 +18,7 @@ The library focuses on encapsulating messages in standard formats, which can be 
 To install `msgpack-capsule`, run:
 
 ```bash
-npm install msgpack-capsule
+npm install https://github.com/rachmanzz/msgpack-capsule
 ```
 
 ---
