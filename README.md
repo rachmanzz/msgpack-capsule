@@ -1,7 +1,3 @@
-Got it! Here's an updated version of the `README` that includes the correct description of `HonoWS`:
-
----
-
 # msgpack-capsule
 
 `msgpack-capsule` is a lightweight library designed for use with **HonoWS**, a WebSocket library for **Hono**. It provides efficient message serialization and deserialization using `msgpack-lite`, ensuring smooth communication between backend and frontend applications.
@@ -134,5 +130,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The API follows a structure similar to how HonoWS serializes messages, providing compatibility for efficient serialization and deserialization in backend and frontend applications.
 
 ---
-
-Let me know if you need any further changes!
